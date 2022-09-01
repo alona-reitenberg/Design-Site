@@ -1,0 +1,1 @@
+I write the code whit vsCode platfrom,and i use liveServer to open the html web page.
