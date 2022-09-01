@@ -12,4 +12,4 @@ Most of the project animations is written on css, except the sub title text on t
 
 ## How to run this project?
 
-Open with live server. 
+Open with live server the index file. 
