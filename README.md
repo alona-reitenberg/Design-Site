@@ -1,4 +1,4 @@
-# Design-Site
+# Designed website
 <img width="640" alt="2" src="https://user-images.githubusercontent.com/112491981/187897435-74bd50ca-109e-4a1d-8a2c-f9014ca3cbd8.PNG">
  
 ## Technologies
